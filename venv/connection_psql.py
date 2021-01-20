@@ -38,7 +38,3 @@ print(row)
 print(transf)
 
 cur.close()
-
-
-#cur.execute('''insert into membros values (03, 'Marcos Barboza Silva ','Rua Papa Pio XII nº 49, Vila Rica - Lote 92, Jaboatão dos Guararapes-PE','54090415','1968-02-02','50128990406','81985455346','casado');''')
-
