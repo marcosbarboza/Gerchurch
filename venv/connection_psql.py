@@ -9,8 +9,6 @@ print ("connection database successful")
 
 print
 
-
-#def()
 #consulta
 cur.execute('select count(*) from membros')
 row_id = cur.fetchall()
